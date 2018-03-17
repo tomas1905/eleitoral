@@ -7,9 +7,9 @@ about: active
 > O exercício do direito à informação rege-se, entre outros, pelo princípio da permanente participação democrática dos cidadãos na vida pública.
 > <footer>Lei do Direito à Infomação, Lei n.º 34/2014 de 31 de Dezembro <cite title="Source Title">√</cite></footer>
 
-<p class="lead">A Plataforma foi desenvolvida para ajudar os cidadãos a encontrar o posto de votação mais próximo, para que possam se dirigir no dia das eleições.</p>
+<p class="lead">A Plataforma foi desenvolvida para ajudar os cidadãos a encontrar o posto de recenseamento mais próximo, para que possam se inscrever nos cadernos eleitorais.</p>
 
-A Plataforma explica de forma breve acerca do processo de registro de eleitores, informando a documentação a ser levada no posto de votação mais próximo.
+A Plataforma explica de forma breve acerca do processo de recenseamento eleitoral, informando os procedimentos e e período de duração.
 
 A missão do <b>Ntatenda</b> assenta-se no desejo de servir ao bem comum, promovendo a transparência da informação.
 Somos um grupo de activistas, não partidários, que procura melhorar o acesso a informação e promover a tomada de decisões informadas.
