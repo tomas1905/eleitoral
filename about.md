@@ -9,7 +9,7 @@ about: active
 
 <p class="lead">A Plataforma foi desenvolvida para ajudar os cidadãos a encontrar o posto de recenseamento mais próximo, para que possam se inscrever nos cadernos eleitorais.</p>
 
-A Plataforma explica de forma breve acerca do processo de recenseamento eleitoral, informando os procedimentos e e período de duração.
+A Plataforma explica de forma breve acerca do processo de recenseamento eleitoral, informando os procedimentos e o período de duração.
 
 A missão do <b>Ntatenda</b> assenta-se no desejo de servir ao bem comum, promovendo a transparência da informação.
 Somos um grupo de activistas, não partidários, que procura melhorar o acesso a informação e promover a tomada de decisões informadas.
